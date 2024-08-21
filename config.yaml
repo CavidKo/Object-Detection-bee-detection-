@@ -1,0 +1,6 @@
+path: C:\Users\Cavid\Desktop\BeeDetection\data
+train: C:\Users\Cavid\Desktop\BeeDetection\data\images
+val: C:\Users\Cavid\Desktop\BeeDetection\data\images
+
+names:
+  0: bee
